@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteAndReadJsonDataFromFile", "WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile.csproj", "{90ECD3CE-DC86-4857-82D0-12385AA94F71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90ECD3CE-DC86-4857-82D0-12385AA94F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90ECD3CE-DC86-4857-82D0-12385AA94F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90ECD3CE-DC86-4857-82D0-12385AA94F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90ECD3CE-DC86-4857-82D0-12385AA94F71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8906DFB3-649A-4CB6-9605-FCF3962DCD3A}
+	EndGlobalSection
+EndGlobal

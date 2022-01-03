@@ -1,0 +1,15 @@
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\bin\Debug\netcoreapp3.1\WriteAndReadJsonDataFromFile.exe
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\obj\Debug\netcoreapp3.1\WriteAndReadJsonDataFromFile.csprojAssemblyReference.cache
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\obj\Debug\netcoreapp3.1\WriteAndReadJsonDataFromFile.AssemblyInfoInputs.cache
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\obj\Debug\netcoreapp3.1\WriteAndReadJsonDataFromFile.AssemblyInfo.cs
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\bin\Debug\netcoreapp3.1\WriteAndReadJsonDataFromFile.deps.json
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\bin\Debug\netcoreapp3.1\WriteAndReadJsonDataFromFile.runtimeconfig.json
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\bin\Debug\netcoreapp3.1\WriteAndReadJsonDataFromFile.runtimeconfig.dev.json
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\bin\Debug\netcoreapp3.1\WriteAndReadJsonDataFromFile.dll
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\bin\Debug\netcoreapp3.1\WriteAndReadJsonDataFromFile.pdb
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\obj\Debug\netcoreapp3.1\WriteAndReadJsonDataFromFile.csproj.CoreCompileInputs.cache
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\obj\Debug\netcoreapp3.1\WriteAndReadJsonDataFromFile.csproj.CopyComplete
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\obj\Debug\netcoreapp3.1\WriteAndReadJsonDataFromFile.dll
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\obj\Debug\netcoreapp3.1\WriteAndReadJsonDataFromFile.pdb
+C:\Users\rksin\source\repos\WriteAndReadJsonDataFromFile\WriteAndReadJsonDataFromFile\obj\Debug\netcoreapp3.1\WriteAndReadJsonDataFromFile.genruntimeconfig.cache

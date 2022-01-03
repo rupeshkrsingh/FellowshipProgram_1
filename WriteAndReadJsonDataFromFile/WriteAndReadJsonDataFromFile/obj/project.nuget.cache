@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3CY+n6LxwUGpKv0CM7Y189byCgeLM1IFUQ+7n5ebEYNMHCPZ9MSqck+CzkQdFiHUGHoLtJwa3h1wHVcQdJJUhQ==",
+  "success": true,
+  "projectFilePath": "D:\\FellowShipProgram\\FellowshipProgram_1\\WriteAndReadJsonDataFromFile\\WriteAndReadJsonDataFromFile\\WriteAndReadJsonDataFromFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rksin\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
